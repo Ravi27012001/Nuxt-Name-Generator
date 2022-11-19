@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { Gender, Popularity, Length, names } from "@/data";
+ 
 interface Namee {
   gender: string;
   popularity: string;
